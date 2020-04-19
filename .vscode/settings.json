@@ -1,0 +1,8 @@
+{
+    "sonarlint.connectedMode.project": {
+        // "connectionId": "baztian_local",
+        // "projectKey": "bowe.de:java-sample"
+        "connectionId": "baztian",
+        "projectKey": "baztian_java-sample"
+    }
+}

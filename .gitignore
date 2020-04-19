@@ -2,5 +2,6 @@
 *.iml
 .project
 .classpath
+.settings
 target
 .mvn/wrapper/maven-wrapper.jar
